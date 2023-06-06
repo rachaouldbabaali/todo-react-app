@@ -1,70 +1,168 @@
-# Getting Started with Create React App
+# To-do List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📗 Table of Contents
 
-## Available Scripts
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-In the project directory, you can run:
 
-### `npm start`
+# 📖 To-do List <a name="about-project"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**To-do List** A to-do list project is a simple application that allows users to create a list of tasks that they need to complete. The user can add new tasks to the list, mark tasks as completed, and remove tasks from the list. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The project typically involves creating a user interface that allows the user to interact with the list, and implementing the functionality to add, remove, and update tasks in the list using JavaScript. 
 
-### `npm test`
+The project can be expanded to include additional features such as sorting tasks by priority or due date, setting reminders for tasks, or syncing the list across multiple devices. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Overall, a to-do list project is a great way to practice working with React.js
 
-### `npm run build`
+## 🛠 Built With <a name="built-with"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tech Stack <a name="tech-stack"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>React.js</li>
+    <li>Css</li>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  </ul>
+</details>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Key Features <a name="key-features"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Added a user side feature to add a task with it's description using React components**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 Live Demo(still in development) <a name="live-demo"></a>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- GETTING STARTED -->
 
-### Making a Progressive Web App
+## 💻 Getting Started <a name="getting-started"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+To get a local copy up and running, follow these steps.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Prerequisites
 
-### Deployment
+In order to run this project you need:
+ - Installation of Git
+ - Installation of NPM
+ - A working browser
+ - Internet connection
+ - A code editor like Visual Studio Code
+ - Installation of Live Server plugging in Visual Studio Code
+ - Any other tool you can think about
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Setup
 
-### `npm run build` fails to minify
+Clone this repository to your desired folder:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+```sh
+  cd my-folder
+  git clone git@github.com:rachaouldbabaali/todo-react-app.git
+```
+
+### Install
+
+Install this project with:
+
+
+```sh
+  cd To-do_list
+  npm install
+```
+
+### Usage
+
+To use this project on the `index.html` file with your prefered browser
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+```sh
+  npm start
+```
+
+## 👥 Author <a name="authors"></a>
+
+
+👤 **Racha Ouldbabaali**
+
+- GitHub: [@rachaouldbaali](https://github.com/rachaouldbaali)
+- Twitter: [@rachaoulbaali](https://twitter.com/rachaouldbaali)
+- LinkedIn: [rachaouldbaali](https://linkedin.com/in/rachaouldbaali)
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **Sorting tasks by priority**
+- [ ] **Sorting tasks due date**
+- [ ] **Setting reminders for tasks**
+- [ ] **Syncing the list across multiple devices**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/rachaouldbabaali/todo-react-app/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please give a star ⭐️ to this project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank Microverse team, coding partners for the amazing collobrating project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/rachaouldbabaali/todo-react-app/blob/main/LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
