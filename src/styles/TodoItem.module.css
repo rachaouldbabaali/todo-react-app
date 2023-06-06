@@ -30,3 +30,9 @@
     border: 1px solid #dfdfdf;
     outline: none;
   }
+ul {
+  padding: 0;
+}
+button {
+  padding: 0.6rem 0rem;
+}
