@@ -11,5 +11,5 @@ root.render(
     <div>
       <ToDoApp />
     </div>
-  </React.StrictMode>
+  </React.StrictMode>,
 );
